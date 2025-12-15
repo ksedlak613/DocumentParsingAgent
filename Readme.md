@@ -10,7 +10,7 @@ A lightweight parser that extracts insights from **documents and audio files** u
 
 ## Setup
 ```bash
-git clone https://github.com/yourname/llm-parser.git
+git clone https://github.com/ksedlak613/DocumentParsingAgent
 cd llm-parser
 pip install -r requirements.txt
 export OPENAI_API_KEY=your_key
